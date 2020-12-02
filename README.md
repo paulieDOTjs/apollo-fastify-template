@@ -1,1 +1,1 @@
-# apollo-typescript-start
+# apollo-fastify-template
